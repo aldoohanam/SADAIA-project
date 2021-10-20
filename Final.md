@@ -7,8 +7,8 @@ The project idea was taken from [MachineHack](https://machinehack.com/) , the ai
 One VS One multi-class with Logistic regression and CatBoostClassifier  . 
 
 ## Data
-The dataset contains 17996 records with 17 features . two of are related to artist and track names . 
-The rest are related to song properties such as Loudness , energy , length of the song . 
+The dataset contains 17996 records with 17 features . two of are related to artist and track names . <br>
+The rest are related to song properties such as Loudness , energy , length of the song . <br>
 Some of the features include null values and this is handled by using two different approaches .
 
 ## Algorithms
